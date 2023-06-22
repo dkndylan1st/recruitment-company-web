@@ -1,0 +1,64 @@
+
+@import url("https://fonts.googleapis.com/css?family=Metal+Mania");
+
+
+.background {
+	background-image: url(images/triangle-staff.jpg);
+	repeat: no-repeat;
+	background-size: cover;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+  background-color: #bbb52a;
+  flex-direction: row;
+}
+.properly {
+	margin: 70px;
+}
+.p-container {
+	 display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+  background-color: #24252a;
+  flex-direction: row;
+}
+.red {
+	color: red;
+}
+.blue {
+	color: blue;
+}
+.nav li {
+	display: inline;
+	display: inline-block;
+    padding: 2rem;
+    color: white;
+    text-decoration: none;
+}
+* {
+    box-sizing: border-box;
+    font-family: Raleway;
+    
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul {
+    margin: 0;
+}
+.mid-section {
+	background-color: rgb(255, 0, 255, 1);
+	 margin: 0;
+    padding: 0;
+	display: cover;
+}
+.red {
+	color: red;
+}
